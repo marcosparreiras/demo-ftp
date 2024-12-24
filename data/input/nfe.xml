@@ -1,0 +1,424 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe">
+  <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+    <infNFe Id="NFe35241115287545000106550010005626261974520413" versao="4.00">
+      <ide>
+        <cUF>35</cUF>
+        <cNF>97452041</cNF>
+        <natOp>Venda de mercadoria adquirida ou recebida de terceiros</natOp>
+        <mod>55</mod>
+        <serie>1</serie>
+        <nNF>562626</nNF>
+        <dhEmi>2024-11-28T13:22:00-03:00</dhEmi>
+        <tpNF>1</tpNF>
+        <idDest>1</idDest>
+        <cMunFG>3506003</cMunFG>
+        <tpImp>1</tpImp>
+        <tpEmis>1</tpEmis>
+        <cDV>3</cDV>
+        <tpAmb>1</tpAmb>
+        <finNFe>1</finNFe>
+        <indFinal>1</indFinal>
+        <indPres>1</indPres>
+        <indIntermed>0</indIntermed>
+        <procEmi>0</procEmi>
+        <verProc>Oobj-DFe</verProc>
+      </ide>
+      <emit>
+        <CNPJ>15287545000106</CNPJ>
+        <xNome>CETRO SOLUCOES EM EMBALAGENS LTDA</xNome>
+        <xFant>CETRO SOLUCOES</xFant>
+        <enderEmit>
+          <xLgr>Rua NEWTON PRADO</xLgr>
+          <nro>8-30</nro>
+          <xBairro>JARDIM ANA LUCIA</xBairro>
+          <cMun>3506003</cMun>
+          <xMun>Bauru</xMun>
+          <UF>SP</UF>
+          <CEP>17052080</CEP>
+          <cPais>1058</cPais>
+          <xPais>Brasil</xPais>
+          <fone>01432018500</fone>
+        </enderEmit>
+        <IE>209464711110</IE>
+        <CRT>3</CRT>
+      </emit>
+      <dest>
+        <CNPJ>02416225000159</CNPJ>
+        <xNome>CONDUCTIX-WAMPFLER EQUIPAMENTOS INDUSTRIAIS LTDA</xNome>
+        <enderDest>
+          <xLgr>Rua Marginal Emicol // rua 02</xLgr>
+          <nro>493</nro>
+          <xCpl>Condominio Westpark Empresarial</xCpl>
+          <xBairro>Jardim Emicol Rod do Acucar Km 23 n 21500</xBairro>
+          <cMun>3523909</cMun>
+          <xMun>Itu</xMun>
+          <UF>SP</UF>
+          <CEP>13312820</CEP>
+          <cPais>1058</cPais>
+          <xPais>Brasil</xPais>
+          <fone>11964883932</fone>
+        </enderDest>
+        <indIEDest>1</indIEDest>
+        <IE>387085362112</IE>
+        <email>d*z@c*x.com</email>
+      </dest>
+      <det nItem="1">
+        <prod>
+          <cProd>MQ001114</cProd>
+          <cEAN>7908297501909</cEAN>
+          <xProd>Seladora de Pedal com Temporizador CETRO - 50 cm</xProd>
+          <NCM>84223029</NCM>
+          <CEST>2806100</CEST>
+          <cBenef />
+          <CFOP>5102</CFOP>
+          <uCom>UN</uCom>
+          <qCom>1.0000</qCom>
+          <vUnCom>806.490000</vUnCom>
+          <vProd>806.49</vProd>
+          <cEANTrib>7908297501909</cEANTrib>
+          <uTrib>UN</uTrib>
+          <qTrib>1.0000</qTrib>
+          <vUnTrib>806.490000</vUnTrib>
+          <vFrete>14.84</vFrete>
+          <indTot>1</indTot>
+        </prod>
+        <imposto>
+          <vTotTrib>141.57</vTotTrib>
+          <ICMS>
+            <ICMS20>
+              <orig>0</orig>
+              <CST>20</CST>
+              <modBC>3</modBC>
+              <pRedBC>51.11</pRedBC>
+              <vBC>401.55</vBC>
+              <pICMS>18.00</pICMS>
+              <vICMS>72.28</vICMS>
+            </ICMS20>
+          </ICMS>
+          <IPI>
+            <cEnq>999</cEnq>
+            <IPINT>
+              <CST>53</CST>
+            </IPINT>
+          </IPI>
+          <PIS>
+            <PISAliq>
+              <CST>01</CST>
+              <vBC>749.05</vBC>
+              <pPIS>1.65</pPIS>
+              <vPIS>12.36</vPIS>
+            </PISAliq>
+          </PIS>
+          <COFINS>
+            <COFINSAliq>
+              <CST>01</CST>
+              <vBC>749.05</vBC>
+              <pCOFINS>7.60</pCOFINS>
+              <vCOFINS>56.93</vCOFINS>
+            </COFINSAliq>
+          </COFINS>
+        </imposto>
+        <infAdProd>N.Series: 2024111316580217838148</infAdProd>
+      </det>
+      <det nItem="2">
+        <prod>
+          <cProd>PC003826</cProd>
+          <cEAN>SEM GTIN</cEAN>
+          <xProd>Resistencia Fita para Seladora Manual SMNAC 50 cm - 520 x 2 x 0,10 mm</xProd>
+          <NCM>72202090</NCM>
+          <cBenef />
+          <CFOP>5102</CFOP>
+          <uCom>UN</uCom>
+          <qCom>5.0000</qCom>
+          <vUnCom>59.620000</vUnCom>
+          <vProd>298.10</vProd>
+          <cEANTrib>SEM GTIN</cEANTrib>
+          <uTrib>UN</uTrib>
+          <qTrib>5.0000</qTrib>
+          <vUnTrib>59.620000</vUnTrib>
+          <vFrete>5.49</vFrete>
+          <indTot>1</indTot>
+        </prod>
+        <imposto>
+          <vTotTrib>77.67</vTotTrib>
+          <ICMS>
+            <ICMS00>
+              <orig>0</orig>
+              <CST>00</CST>
+              <modBC>3</modBC>
+              <vBC>303.59</vBC>
+              <pICMS>18.00</pICMS>
+              <vICMS>54.65</vICMS>
+            </ICMS00>
+          </ICMS>
+          <IPI>
+            <cEnq>999</cEnq>
+            <IPINT>
+              <CST>53</CST>
+            </IPINT>
+          </IPI>
+          <PIS>
+            <PISAliq>
+              <CST>01</CST>
+              <vBC>248.94</vBC>
+              <pPIS>1.65</pPIS>
+              <vPIS>4.10</vPIS>
+            </PISAliq>
+          </PIS>
+          <COFINS>
+            <COFINSAliq>
+              <CST>01</CST>
+              <vBC>248.94</vBC>
+              <pCOFINS>7.60</pCOFINS>
+              <vCOFINS>18.92</vCOFINS>
+            </COFINSAliq>
+          </COFINS>
+        </imposto>
+      </det>
+      <det nItem="3">
+        <prod>
+          <cProd>PC004236</cProd>
+          <cEAN>SEM GTIN</cEAN>
+          <xProd>Teflon Adesivo P Sm500 - Inferior Nacional 500Mm X 15Mm X 0 13Mm</xProd>
+          <NCM>59061000</NCM>
+          <cBenef />
+          <CFOP>5102</CFOP>
+          <uCom>UN</uCom>
+          <qCom>5.0000</qCom>
+          <vUnCom>21.610000</vUnCom>
+          <vProd>108.05</vProd>
+          <cEANTrib>SEM GTIN</cEANTrib>
+          <uTrib>UN</uTrib>
+          <qTrib>5.0000</qTrib>
+          <vUnTrib>21.610000</vUnTrib>
+          <vFrete>1.99</vFrete>
+          <indTot>1</indTot>
+        </prod>
+        <imposto>
+          <vTotTrib>28.15</vTotTrib>
+          <ICMS>
+            <ICMS00>
+              <orig>0</orig>
+              <CST>00</CST>
+              <modBC>3</modBC>
+              <vBC>110.04</vBC>
+              <pICMS>18.00</pICMS>
+              <vICMS>19.81</vICMS>
+            </ICMS00>
+          </ICMS>
+          <IPI>
+            <cEnq>999</cEnq>
+            <IPINT>
+              <CST>53</CST>
+            </IPINT>
+          </IPI>
+          <PIS>
+            <PISAliq>
+              <CST>01</CST>
+              <vBC>90.23</vBC>
+              <pPIS>1.65</pPIS>
+              <vPIS>1.49</vPIS>
+            </PISAliq>
+          </PIS>
+          <COFINS>
+            <COFINSAliq>
+              <CST>01</CST>
+              <vBC>90.23</vBC>
+              <pCOFINS>7.60</pCOFINS>
+              <vCOFINS>6.85</vCOFINS>
+            </COFINSAliq>
+          </COFINS>
+        </imposto>
+      </det>
+      <det nItem="4">
+        <prod>
+          <cProd>PC004237</cProd>
+          <cEAN>SEM GTIN</cEAN>
+          <xProd>Teflon Adesivo P Sm500 - Superior Nacional 500Mm X 50Mm X 0 13Mm</xProd>
+          <NCM>59061000</NCM>
+          <cBenef />
+          <CFOP>5102</CFOP>
+          <uCom>UN</uCom>
+          <qCom>5.0000</qCom>
+          <vUnCom>29.210000</vUnCom>
+          <vProd>146.05</vProd>
+          <cEANTrib>SEM GTIN</cEANTrib>
+          <uTrib>UN</uTrib>
+          <qTrib>5.0000</qTrib>
+          <vUnTrib>29.210000</vUnTrib>
+          <vFrete>2.68</vFrete>
+          <indTot>1</indTot>
+        </prod>
+        <imposto>
+          <vTotTrib>38.06</vTotTrib>
+          <ICMS>
+            <ICMS00>
+              <orig>0</orig>
+              <CST>00</CST>
+              <modBC>3</modBC>
+              <vBC>148.73</vBC>
+              <pICMS>18.00</pICMS>
+              <vICMS>26.77</vICMS>
+            </ICMS00>
+          </ICMS>
+          <IPI>
+            <cEnq>999</cEnq>
+            <IPINT>
+              <CST>53</CST>
+            </IPINT>
+          </IPI>
+          <PIS>
+            <PISAliq>
+              <CST>01</CST>
+              <vBC>121.96</vBC>
+              <pPIS>1.65</pPIS>
+              <vPIS>2.02</vPIS>
+            </PISAliq>
+          </PIS>
+          <COFINS>
+            <COFINSAliq>
+              <CST>01</CST>
+              <vBC>121.96</vBC>
+              <pCOFINS>7.60</pCOFINS>
+              <vCOFINS>9.27</vCOFINS>
+            </COFINSAliq>
+          </COFINS>
+        </imposto>
+      </det>
+      <total>
+        <ICMSTot>
+          <vBC>963.91</vBC>
+          <vICMS>173.51</vICMS>
+          <vICMSDeson>0.00</vICMSDeson>
+          <vFCP>0.00</vFCP>
+          <vBCST>0.00</vBCST>
+          <vST>0.00</vST>
+          <vFCPST>0.00</vFCPST>
+          <vFCPSTRet>0.00</vFCPSTRet>
+          <vProd>1358.69</vProd>
+          <vFrete>25.00</vFrete>
+          <vSeg>0.00</vSeg>
+          <vDesc>0.00</vDesc>
+          <vII>0.00</vII>
+          <vIPI>0.00</vIPI>
+          <vIPIDevol>0.00</vIPIDevol>
+          <vPIS>19.97</vPIS>
+          <vCOFINS>91.97</vCOFINS>
+          <vOutro>0.00</vOutro>
+          <vNF>1383.69</vNF>
+          <vTotTrib>285.45</vTotTrib>
+        </ICMSTot>
+      </total>
+      <transp>
+        <modFrete>0</modFrete>
+        <transporta>
+          <CNPJ>44914992000138</CNPJ>
+          <xNome>RODONAVES TRANSPORTES E ENCOMENDAS LTDA</xNome>
+          <IE>582249216111</IE>
+          <xEnder>RUA GENERAL AUGUSTO SOARES DOS SANTOS 550 PARQUE INDUSTRIAL</xEnder>
+          <xMun>Ribeirao Preto</xMun>
+          <UF>SP</UF>
+        </transporta>
+        <vol>
+          <qVol>0</qVol>
+          <nVol>0</nVol>
+          <pesoL>0.000</pesoL>
+          <pesoB>0.000</pesoB>
+        </vol>
+      </transp>
+      <cobr>
+        <fat>
+          <nFat>562626</nFat>
+          <vOrig>1383.69</vOrig>
+          <vDesc>0.00</vDesc>
+          <vLiq>1383.69</vLiq>
+        </fat>
+        <dup>
+          <nDup>001</nDup>
+          <dVenc>2024-12-28</dVenc>
+          <vDup>1383.69</vDup>
+        </dup>
+      </cobr>
+      <pag>
+        <detPag>
+          <tPag>15</tPag>
+          <vPag>1383.69</vPag>
+        </detPag>
+      </pag>
+      <infAdic>
+        <infCpl>BK150579: Boleto Programado 30 dias</infCpl>
+      </infAdic>
+    </infNFe>
+    <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+      <SignedInfo>
+        <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+        <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+        <Reference URI="#NFe35241115287545000106550010005626261974520413">
+          <Transforms>
+            <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+            <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+          </Transforms>
+          <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+          <DigestValue>/q0BD7qt4BGZoXWawJBVLMfjHjg=</DigestValue>
+        </Reference>
+      </SignedInfo>
+      <SignatureValue>lb7zFRkzxYbKbLOLtdXiX7j8+ZIHtkJviDnDG3UUzkrDRE37BtQ0niwqVZJibGmYJaMmqfxlYwKO
+        amo3P7f+OUqTaF++k1ahCu5vgvczcOcTJUqagVvfepU4Zyd9QsviH2uKoOGwBBvLiS5jQO0wRM+5
+        QYI5KRrrYCye6FIturPnlEDsKyVtqTRWRRsuraOdPxHOYnX+5ysCaHIIWkBpBhtsExk1Zon8TwxV
+        ZMzHKtf6NZrPlzWNgNLchAQf9sR7IytuOYWWm7owpMVtOrYHZcc/4h1jJYeAPlxHzBtyEez50yIu
+        IqF/f/6qYeXTuTiYNvtT9VfkBy3g9X2DnCdOOQ==</SignatureValue>
+      <KeyInfo>
+        <X509Data>
+          <X509Certificate>MIIH+DCCBeCgAwIBAgIQDkMjQYuNRiloVSCslp6+tDANBgkqhkiG9w0BAQsFADB1MQswCQYDVQQG
+            EwJCUjETMBEGA1UEChMKSUNQLUJyYXNpbDE2MDQGA1UECxMtU2VjcmV0YXJpYSBkYSBSZWNlaXRh
+            IEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRkwFwYDVQQDExBBQyBTSU5DT1IgUkZCIEc1MB4XDTI0
+            MDMxNDIxMzQ0MFoXDTI1MDMxNDIxMzQ0MFowgf4xCzAJBgNVBAYTAkJSMRMwEQYDVQQKDApJQ1At
+            QnJhc2lsMQswCQYDVQQIDAJTUDEOMAwGA1UEBwwFQmF1cnUxGTAXBgNVBAsMEFZpZGVvQ29uZmVy
+            ZW5jaWExFzAVBgNVBAsMDjAzOTY3NDY4MDAwMTQ4MTYwNAYDVQQLDC1TZWNyZXRhcmlhIGRhIFJl
+            Y2VpdGEgRmVkZXJhbCBkbyBCcmFzaWwgLSBSRkIxFjAUBgNVBAsMDVJGQiBlLUNOUEogQTExOTA3
+            BgNVBAMMMENFVFJPIFNPTFVDT0VTIEVNIEVNQkFMQUdFTlMgTFREQToxNTI4NzU0NTAwMDEwNjCC
+            ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKvKSN1u25wYiafWTc189n0CuIpdtd6KS8G2
+            iu8pCPA9bCteJMfO2seJSAuMHhzrT5vauJjcjjv/trCO81I7Qm20zdeduHc6mBF++5FRtoxl56fQ
+            aq5zqgY64TaBnwhCM3GQW1VA0ppzCqw1LCgUT7S1fpR37SDAgQfHGaiSbmixfFIsn7qoj1zVcP5N
+            hiWVV7q/Lwsbz1s7WvDCu+bjFCPgMUhnhkx8YZ9oWIQgQUDZCButgyZB8v/CcXYmZzoK0ENu2qT/
+            xM1QUkrW69vT8DG0z0QaOjrgIrk1zvKCEEuHRoYUMw/fAVz4RVst3/G2wsNB1Dv/iYH4madOx0+/
+            T3cCAwEAAaOCAvgwggL0MIG7BgNVHREEgbMwgbCgPQYFYEwBAwSgNAQyMDMwNDE5OTAzOTkxOTAw
+            Mjg5NTAwMDAwMDAwMDAwMDAwMDAwMDQ2NzYwMjMxc3NwU1CgIgYFYEwBAwKgGQQXTEVPTkFSRE8g
+            REUgTUVMTE8gU0lMVkGgGQYFYEwBAwOgEAQOMTUyODc1NDUwMDAxMDagFwYFYEwBAwegDgQMMDAw
+            MDAwMDAwMDAwgRd0aUBjZXRyb21hcXVpbmFzLmNvbS5icjAJBgNVHRMEAjAAMB8GA1UdIwQYMBaA
+            FGfnQhG+8jgGFUkPh//aBd5djpQiMHgGA1UdIARxMG8wbQYGYEwBAgEcMGMwYQYIKwYBBQUHAgEW
+            VWh0dHA6Ly9pY3AtYnJhc2lsLmFjc2luY29yLmNvbS5ici9yZXBvc2l0b3Jpby9kcGMvQUNfU0lO
+            Q09SX1JGQi9EUENfQUNfU0lOQ09SX1JGQi5wZGYwgbYGA1UdHwSBrjCBqzBUoFKgUIZOaHR0cDov
+            L2ljcC1icmFzaWwuY2VydGlzaWduLmNvbS5ici9yZXBvc2l0b3Jpby9sY3IvQUNTSU5DT1JSRkJH
+            NS9MYXRlc3RDUkwuY3JsMFOgUaBPhk1odHRwOi8vaWNwLWJyYXNpbC5vdXRyYWxjci5jb20uYnIv
+            cmVwb3NpdG9yaW8vbGNyL0FDU0lOQ09SUkZCRzUvTGF0ZXN0Q1JMLmNybDAOBgNVHQ8BAf8EBAMC
+            BeAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIGlBggrBgEFBQcBAQSBmDCBlTBbBggr
+            BgEFBQcwAoZPaHR0cDovL2ljcC1icmFzaWwuYWNzaW5jb3IuY29tLmJyL3JlcG9zaXRvcmlvL2Nl
+            cnRpZmljYWRvcy9BQ19TSU5DT1JfUkZCX0c1LnA3YzA2BggrBgEFBQcwAYYqaHR0cDovL29jc3At
+            YWMtc2luY29yLXJmYi5jZXJ0aXNpZ24uY29tLmJyMA0GCSqGSIb3DQEBCwUAA4ICAQBFDDUMSapq
+            +dml3FbvOs1P6xVaGUbpDMdC2rrtF2AlVS9l/ngatOq1kqDCYlYMwXnfbfXCJ7dtKOEQqhSh1bVv
+            F3ilYJ8QwYn4JTZmBa88/LAw7LrAiD3qhQ2DxJxfbufbTZQKO+wvutiVgC8XWEDWJlRMLDegMtmR
+            tBFEdpC+vwc28NY/6xNR5kZsseCErzQzQLE4oWjVeNYhZBk4TN0D56bHmNhOG9rIBgecZtIL9GhJ
+            fXquH8Ofi/VIZuwIsyWtdPhEzOX+9oLntGI1uHRjkW4IrR4x/regwnDKdWAC03TDAB2LFryVfYJT
+            Ld4WsLEYnvo9V50hHV1lDbpY1p9l5XK52ioEBDCRNnym7nFsqS/2OVRZCZS88jC6TSCIiscRSFhi
+            FLor/igM7Nj9PKRbdqRrBpSPol3EtqOI1N5SrURf/alvqBHTGbAgLR6DqJbTU3eYTFGUpG9AsYdV
+            4wAEMJpuDMz4ztFvHoWBMo9PVJuPDAIvsSPy+3/4din3CW5kABKHQAf9fSTjnYxECwGqoYT9U5/X
+            7wuDSxuCrHe5sskSMG2XLT4M6e8JqzhDXQl7gb8dDhi3xnKbe7McxY7xuBtxcyDVEewkfVZG7Pmh
+            LXHtffCMxjVsWqksVqMLF2J309qDENulLw3LnfmWK43NUMuFlklDTzMHWyy/A11kIQ==</X509Certificate>
+        </X509Data>
+      </KeyInfo>
+    </Signature>
+  </NFe>
+  <protNFe versao="4.00">
+    <infProt Id="Id135242746817506">
+      <tpAmb>1</tpAmb>
+      <verAplic>SP_NFE_PL009_V4</verAplic>
+      <chNFe>35241115287545000106550010005626261974520413</chNFe>
+      <dhRecbto>2024-11-28T13:23:11-03:00</dhRecbto>
+      <nProt>135242746817506</nProt>
+      <digVal>/q0BD7qt4BGZoXWawJBVLMfjHjg=</digVal>
+      <cStat>100</cStat>
+      <xMotivo>Autorizado o uso da NF-e</xMotivo>
+    </infProt>
+  </protNFe>
+</nfeProc>

@@ -1,0 +1,16 @@
+version: "3.8"
+
+services:
+  ftp:
+    image: bogem/ftp
+    restart: always
+    ports:
+      - "20:20"
+      - "21:21"
+      - "47400-47470:47400-47470"
+    environment:
+      - FTP_USER=marcos
+      - FTP_PASS=123456
+      - PASV_ADDRESS=172.17.255.255
+    volumes:
+      - ./data:/home/vsftpd
